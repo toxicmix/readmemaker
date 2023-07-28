@@ -23,7 +23,7 @@ ${lic}
  - [Questions](#questions)
 
 ## Description
-${data.descripton}
+${data.description}
 
 ## Installation
 ${data.installation}
@@ -73,7 +73,7 @@ function init() {
       {
         type: 'input',
         message: questions[3],
-        name: 'discription',
+        name: 'description',
       },
       {
         type: 'list',
